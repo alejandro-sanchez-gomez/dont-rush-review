@@ -1,0 +1,12 @@
+{
+    "name": "Speed Focus Mode",
+    "package": "1046608507",
+    "ankiweb_id": "1046608507",
+    "author": "Levantin00",
+    "version": "v0.1.0",
+    "homepage": "https://github.com/Levantin00/dont-rush-review",
+    "conflicts": [
+        "dont-rush-review"
+    ],
+    "mod": 1559466348
+}
