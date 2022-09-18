@@ -25,13 +25,13 @@ Description
 
 For further information on the use of this add-on please check out the [description text](https://github.com/Levantino-Engineering/dont-rush-review/blob/main/docs/description.md) for AnkiWeb.
 
-### Building
-
-Description
-
 ### Contributing
 
-Description
+Contributions are welcome! Please review the contribution guidelines on how to:
+
+- Report issues
+- File pull requests
+- Support the project as a non-developer
 
 ### License and Credits
 
