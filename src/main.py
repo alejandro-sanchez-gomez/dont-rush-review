@@ -10,7 +10,7 @@ Provides everything necessary to make the addon work:
 
 # Speed Focus Mode Add-on for Anki
 #
-# Copyright (C) 2022  Alejandro Sánchez <https://github.com/Levantin00>
+# Copyright (C) 2022  Alejandro Sánchez <https://github.com/Levantino-Engineering>
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as
@@ -33,7 +33,7 @@ Provides everything necessary to make the addon work:
 # accompanied this program.
 #
 # If not, please request a copy through one of the means of contact
-# listed here: <https://github.com/Levantin00>.
+# listed here: <https://github.com/Levantino-Engineering>.
 #
 # Any modifications to this file must keep this entire header intact.
 
