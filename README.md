@@ -23,7 +23,7 @@ Description
 
 ### Documentation
 
-Description
+For further information on the use of this add-on please check out the [description text](https://github.com/Levantino-Engineering/dont-rush-review/blob/main/docs/description.md) for AnkiWeb.
 
 ### Building
 
