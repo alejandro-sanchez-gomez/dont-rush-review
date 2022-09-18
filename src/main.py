@@ -76,7 +76,6 @@ def stop_ease(self, placeholder1, placeholder2):
 def stop_answer(self, *, _old):
     c = self.mw.col.decks.confForDid(self.card.odid or self.card.did)
     if self.card.timeTaken() < (c['minTimeAnswer'] * 1000):
-        tooltip(_("Minimum time has not passed yet!"))
         return
     return _old(self)
 
