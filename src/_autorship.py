@@ -6,7 +6,7 @@ Provides addon's authorship information
 
 # Speed Focus Mode Add-on for Anki
 #
-# Copyright (C) 2022  Alejandro Sánchez <https://github.com/Levantin00>
+# Copyright (C) 2022  Alejandro Sánchez <https://github.com/Levantino-Engineering>
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as
@@ -29,7 +29,7 @@ Provides addon's authorship information
 # accompanied this program.
 #
 # If not, please request a copy through one of the means of contact
-# listed here: <https://github.com/Levantin00>.
+# listed here: <https://github.com/Levantino-Engineering>.
 #
 # Any modifications to this file must keep this entire header intact.
 
@@ -42,7 +42,7 @@ __version__ = "0.1.0"
 
 __author__ = "Alejandro Sánchez"
 __copyright__ = "Copyright 2022, Don't Rush Review | An Anki Addon"
-__credits__ = ["Alejandro Sánchez", "Glutanimate", "Hyun Woo Park"]
+__credits__ = ["Alejandro Sánchez", "Glutanimate"]
 __license__ = "AGPLv3"
 __maintainer__ = "Alejandro Sánchez"
 __status__ = "Production"
