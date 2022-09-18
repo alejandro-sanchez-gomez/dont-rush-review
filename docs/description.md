@@ -9,19 +9,14 @@ These features can be configured as you please in every Deck Configuration group
 ### TABLE OF CONTENTS
 
 - [Screenshots](#screenshots)
-- [Usage](#usage)
-- [Configuration](#configuration)
+- [Tutorial](#tutorial)
 - [License and Credits](#license-and-credits)
 
 ### SCREENSHOTS
 
 Description
 
-### USAGE
-
-Description
-
-### CONFIGURATION
+### TUTORIAL
 
 Description
 
