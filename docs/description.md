@@ -6,7 +6,7 @@ Tired of finding yourself skipping cards or not paying that much attention to th
 
 These features can be configured as you please in every Deck Configuration group. 
 
-### Table Of Contents
+### TABLE OF CONTENTS
 
 - [Screenshots](#screenshots)
 - [Usage](#usage)
