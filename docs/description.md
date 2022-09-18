@@ -14,7 +14,7 @@ These features can be configured as you please in every Deck Configuration group
 
 ### SCREENSHOTS
 
-Description
+[!test]
 
 ### TUTORIAL
 
