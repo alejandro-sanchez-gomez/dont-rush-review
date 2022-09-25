@@ -10,7 +10,7 @@ The format of this file is based on [Keep a Changelog](https://keepachangelog.co
 
 -----
 
-[Unreleased]: https://github.com/glutanimate/speed-focus-mode/compare/v0.0.0...HEAD
+[Unreleased]: https://github.com/Levantino-Engineering/dont-rush-review/compare/v0.1.0...HEAD
 
 
 
